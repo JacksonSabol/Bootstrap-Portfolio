@@ -13,6 +13,7 @@
 
 <body>
 
+  <!-- Begin navbar -->
   <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
     <div class="container collapse navbar-collapse" id="navbarTogglerDemo01">
       <a class="navbar-brand" href="#">Jackson Sabol</a>
@@ -41,7 +42,32 @@
     </div>
   </header> -->
 
-  <div id="main-container" class="container">
+  <!-- Begin main content section -->
+  <form>
+    <ul>
+      <li>
+        <div class="form-group">
+          <label for="name">Name</label>
+          <input type="text" class="form-control" id="name" name="name" placeholder="John Smith" required="required">
+        </div>
+      </li>
+      <li>
+        <div class="form-group">
+          <label for="email">Email address</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="example@gmail.com">
+        </div>
+      </li>
+      <li>
+        <div class="form-group">
+            <label for="exampleFormControlTextarea1">Message</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>        
+        </div>
+      </li>
+      <button type="submit" class="btn btn-secondary">Submit</button>
+    </ul>
+  </form>
+
+  <!-- <div id="main-container" class="container">
     <section class="main-section">
       <h1>Contact</h1>
 
@@ -65,7 +91,7 @@
 
     </section>
 
-  </div>
+  </div> -->
 
   <footer>
     <div class="container">
