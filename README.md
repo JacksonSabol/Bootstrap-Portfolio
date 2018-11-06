@@ -2,10 +2,10 @@
 
 ### The following project is part 1 of 2 for Assignment 2 of the UCB Full Stack Coding Bootcamp
 
-```html
 
-<p>I employed HTML and Bootstrap CSS to make a responsive portfolio outlining myself and my professional development. The point of this exercise was to not use my own external CSS and only use what's already on the Bootstrap CDN. I included a pre-designed navigation bar that sticks to the top of the page, preexisting CSS classes to markup the page, and Bootstrap autolayout columns to accomodate screen sizes from all devices. A snippet of code below exemplifies the use of the form-inline class in a navbar:</p>
-```
+
+I employed HTML and Bootstrap CSS to make a responsive portfolio outlining myself and my professional development. The point of this exercise was to not use my own external CSS and only use what's already on the Bootstrap CDN. I included a pre-designed navigation bar that sticks to the top of the page, preexisting CSS classes to markup the page, and Bootstrap autolayout columns to accomodate screen sizes from all devices. A snippet of code below exemplifies the use of the form-inline class in a navbar:
+
 
 ```html
 
