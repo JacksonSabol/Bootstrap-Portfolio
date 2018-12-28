@@ -1,6 +1,6 @@
 # Welcome!
 
-### The following project is part 1 of 2 for Assignment 2 of the UCB Full Stack Coding Bootcamp
+### The following project is a simple, responsive portfolio page made entirely with Twitter's Bootstrap CSS
 
 
 
